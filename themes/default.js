@@ -29,11 +29,11 @@ export const lightTheme = {
   }, 
   // Colors for layout
    colors: {
-    primary: "#4a4a4a", 
-    background1: "#fcfcfc",
+    primary: "#2B2D42", 
+    background1: "#EDF2F4",
     accent1: "#b88e00",
     headings: "#b88e00",
-    background2: "#002052",
+    background2: "#000057"
   }, 
   // Breakpoints for responsive design
   breakpoints: {

@@ -1,5 +1,12 @@
-export default function Home() {
+import { PageContainer } from "@/components/services/ServicesStyles"
+
+const Home = () => {
   return (
-    <h1>Digital Hub Hamburg</h1>  
+    <PageContainer>
+      <h1>Digital Hub Hamburg</h1>
+    </PageContainer>
+    
   )
 }
+
+export default Home
